@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div style={{ padding: "20px" }}>
-      <h1>Next.js API Demo with JSONPlaceholder</h1>
+      <h1>Next.js Api</h1>
       <ul>
         <li>/api/posts → GET list of posts</li>
         <li>/api/posts/[id] → GET single post</li>
